@@ -38,6 +38,11 @@ const Project = () => {
                     <h1><a href="projects" target='blank'>{ProjectList[4].name}</a>Empty</h1>
                 </div>
                 
+                <div className={classes.project}>
+                    <img src={ProjectList} alt="projects" />
+                    <h1><a href="projects" target='blank'>{ProjectList[4].name}</a>Empty</h1>
+                </div>
+                
             </div>
             <div className={classes.btn}>
                 <button>more</button>
