@@ -19,7 +19,7 @@ const Footer = () => {
                 <li >
                     <Link className={classes.link} to='https://twitter.com/AlamureNiranjan' target='blank'><FontAwesomeIcon icon={faTwitter} /></Link>
                 </li>
-                <p>@ 2023, ANK Niranjan Kumar A</p>
+                <p>@ 2023, ANK -  A Niranjan Kumar</p>
             </div>
         </Fragment>
     )
